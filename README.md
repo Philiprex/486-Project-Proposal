@@ -2,6 +2,17 @@ Margie (mt4446a@american.edu)
 
 Philip (pe4003a@american.edu) 
 
+4/12/2024
+
+Status Update
+
+We have determined that d3 will be the best library for our visualization implementations since there are several interactive elements like a slider to give a range of years, different filtering variables for our map, and a brushing element for our parallel line plot. Although it is taking longer than expected, we are confident that it is the right decision to use d3 as opposed to vega lite. We dedicated a large amount of time to cleaning and reformatting the data into a format suitable for our needs. This reformatting included ensuring that each variable had a unique ID, which we determined is unit ID rather than OPE ID. As of now, we have not made any changes to our proposed visualizations. 
+
+The boxplots are coming along well. We have already implemented the slider and button that allow the user to select a date range and toggle between public and private schools. Although we will return to the boxplots to finalize the aesthetics and create a smooth interface, we are shifting our focus to the map and the parallel line plot. We hit a roadblock with the parallel line plot with the structure of the data. However, we believe that we have found a way to pivot the data to suit our needs. Moving forward, we are hoping to have the rough visualizations completed mid-next week (~4/17/24). We will then begin the revision process.
+
+Here is a link to our observable project thus far: https://observablehq.com/d/c0c95c020e5e6e70
+
+
 03/21/24 
 
  
